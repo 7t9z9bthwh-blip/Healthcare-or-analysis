@@ -1,0 +1,11 @@
+case_id,procedure,or_room,start_time,end_time,turnover_minutes,emergency
+001, Hip Replacment,OR 1,07:00,09:15,32,No
+002,Knee Replacment,OR 1,09:47,11:32,27,No
+003,Hysterctomy,OR 2,07:15,09:05,35,No
+004,Colectomy,OR 3,08:00,11:10,42,No
+005,Rotator Cuff Repair,OR 1,12:00, 13:43,25,No
+006,Appendectomy,OR 2,10:00,11:20,18,Yes
+007,Hip Replacment,OR 3,07:00, 09:30,38,No
+008,Knee Replacment,OR 2,12:00,14:02,29,No
+009, Cesarean Section,OR 4,08:15,09:20,20,Yes
+010 Colonoscopy,OR 5,09:00,09:45,15,No
